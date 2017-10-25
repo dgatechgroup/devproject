@@ -1,0 +1,3 @@
+hai
+welcome to vim editor
+
